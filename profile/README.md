@@ -1,6 +1,9 @@
 
 
-We are the cosmology team led by [Azadeh Moradinezhad](https://azadehmoradinezhad.com) in the [AstroCosmo group](https://astrocosmolapth.com/) at LAPTh (CNRS / Université Savoie Mont Blanc), Annecy. Our research is focused on testing fundamental physics with cosmological observables, in particular observations of cosmic large-scale structure. We release our codes here, each credited to the people who built it. Here we release our codes, from theoretical predictions to likelihood inference and forecasts, each credited to the people who built it.
+We are a cosmology team led by [Azadeh Moradinezhad](https://azadehmoradinezhad.com) at LAPTh. Our research is centered around testing fundamental physics with probes of the large-scale structure of the Universe, both individually and in combination. These include galaxy clustering and line intensity mapping (LIM), which are biased tracers of the dark matter distribution, and galaxy and CMB weak lensing, which probe the total matter distribution through its impact on photon trajectories.
+
+This organization collects the codes we develop, from theoretical predictions to likelihood inference and forecasts, and the extensions developed with our external collaborators. Each code is credited to the people who built it. 
+
 
 ### Codes under developement
 | Code | What it does | Developed by | Status |
