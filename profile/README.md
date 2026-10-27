@@ -6,7 +6,7 @@ We are the cosmology team led by [Azadeh Moradinezhad](https://azadehmoradinezha
 | Code | What it does | Developed by | Status |
 | --- | --- | --- | --- |
 | CosmoSIS-gClust | Joint power spectrum and bispectrum likelihood inference code for galaxy clustering within CosmoSIS | [Azadeh Moradinezhad](https://github.com/amoradinejad), [Dennis Linde](https://github.com/lindede249), [Louis Christoph](https://github.com/louischristoph) | Public release in preparation |
-| wSkewSpec | Joint Fisher forecasts of real-space power spectrum and skew spectra of LIM  and galaxy clustering | Azadeh Moradinezhad (@amoradinejad), Eleonora Vanzan (eleonoravanzan) | Private; potential future public release |
+| wSkewSpec | Joint Fisher forecasts of real-space power spectrum and skew spectra of LIM  and galaxy clustering |  [Azadeh Moradinezhad](https://github.com/amoradinejad), [Eleonora Vanzan](https://github.com/eleonoravanzan) | Private; potential future public release |
 
 ### Earlier codes (before LAPTh)
 | Code | What it does | Developed by | Paper |
