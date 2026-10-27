@@ -18,10 +18,9 @@ If you use one of our codes, please cite the paper listed with it.
 
 ### People
 **Current members**
-- Ivan Godino (PhD student)
-- Louis Christoph (PhD student)
+- Ivan Godino (PhD student, 2026-2029)
+- Louis Christoph (PhD student, 2025-2028)
 
 **Alumni**
-- Marina Cagliari (postdoc → UT Austin)
-- Zucheng Gao (postdoc → University of Sussex)
-- Maxence Fugazza (Master's student)
+- Marina Cagliari (postdoc 2024-2026 → UT Austin)
+- Zucheng Gao (postdoc 2024-2026 → University of Sussex)
