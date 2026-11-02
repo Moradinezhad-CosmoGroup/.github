@@ -27,3 +27,4 @@ If you use one of our codes, please cite the paper listed with it.
 **Alumni**
 - Marina Cagliari (postdoc 2024-2026 → UT Austin)
 - Zucheng Gao (postdoc 2024-2026 → University of Sussex)
+- Maxence Fugazza (master student 2024-2025)
