@@ -10,6 +10,7 @@ This organization collects the codes we develop, from theoretical predictions to
 | --- | --- | --- | --- |
 | CosmoSIS-gClust | Joint power spectrum and bispectrum likelihood inference code for galaxy clustering within CosmoSIS | [Azadeh Moradinezhad](https://github.com/amoradinejad), [Dennis Linde](https://github.com/lindede249), [Louis Christoph](https://github.com/louischristoph) | Public release in preparation |
 | wSkewSpec | Joint Fisher forecasts of real-space power spectrum and skew spectra of LIM  and galaxy clustering |  [Azadeh Moradinezhad](https://github.com/amoradinejad), [Eleonora Vanzan](https://github.com/eleonoravanzan) | Private; potential future public release |
+| FastCl_flexible_nonlinear |Joint likeihood analysis of angular statistics of galaxy clustering, weak lensing and CMB lensing jointly | [Maxence Fugazza](https://github.com/Maxfug), [Zucheng Gao](https://github.com/GZCPhysics) | Private; potential future public release | 
 
 ### Publically-available codes
 | Code | What it does | Developed by | Paper |
